@@ -1,3 +1,5 @@
 # genomics-paper
-this paper is about the importance of the association between mental health and genetics.
-alot of people neglect the importance of mental health, or just link it directly to traumas .so this research paper is gonna change that based on researches and informations.
+this paper is about MicroRNA-mRNA regulatory network in colorectal Cancer 
+MiRNAs-mRNA may function as either oncogenes or tumor suppressors under certain conditions .The dysregulated miRNAs have been shown to affect the hallmarks of cancer, including sustaining proliferative signaling, evading growth suppressors, resisting cell death, activating invasion and metastasis, and inducing angiogenesis.
+microRNAs (miRNAs) are approximately 21-nucleotide long RNA molecules involved in post-transcriptional regulation by binding to their mRNA targets
+This study is to identify the colorectal cancer (CRC) specific miRNAs and their target mRNAs
